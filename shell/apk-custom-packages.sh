@@ -11,7 +11,7 @@
 # 分区扩容 by sirpdboy 
 CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-app-partexp luci-i18n-partexp-zh-cn"
 # 流量监控 by timsaya
-CUSTOM_PACKAGES="$#CUSTOM_PACKAGES bandix luci-app-bandix luci-i18n-bandix-zh-cn"
+#CUSTOM_PACKAGES="$#CUSTOM_PACKAGES bandix luci-app-bandix luci-i18n-bandix-zh-cn"
 # 新增ssrp apk
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES xray-core naiveproxy luci-app-ssr-plus luci-i18n-ssr-plus-zh-cn"
 # 新增passwall2 apk
@@ -87,7 +87,7 @@ CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-filemanager-zh-cn"
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-dashboard-zh-cn"
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-dawn-zh-cn"
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-dcwapd-zh-cn"
-CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-diskman-zh-cn"
+#CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-diskman-zh-cn"
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-dsl-zh-cn"
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-dump1090-zh-cn"
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-dynapoint-zh-cn"
@@ -163,7 +163,7 @@ CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-diskman-zh-cn"
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-tor-zh-cn"
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-transmission-zh-cn"
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-travelmate-zh-cn"
-CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-ttyd-zh-cn"
+#CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-ttyd-zh-cn"
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-ua2f-zh-cn"
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-udpxy-zh-cn"
 #CUSTOM_PACKAGES="$#CUSTOM_PACKAGES luci-i18n-uhttpd-zh-cn"
